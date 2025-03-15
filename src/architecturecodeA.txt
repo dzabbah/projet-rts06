@@ -1,0 +1,13 @@
+my-react-app/
+│── src/
+│   ├── components/
+│   │   ├── Greeting.tsx
+│   ├── App.tsx
+│   ├── main.tsx
+│   ├── index.css
+│── public/
+│   ├── index.html
+│── tsconfig.json
+│── package.json
+│── vite.config.ts (si Vite est utilisé) ou webpack.config.js (si Webpack est utilisé)
+│── node_modules/
